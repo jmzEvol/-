@@ -3,4 +3,4 @@
 
  
 
-蒋明忠：[[论文]]  (/hhh/Efficient Test-Time Adaptation of Vision-Language Models)
+蒋明忠：[[论文]]  (./hhh/Efficient Test-Time Adaptation of Vision-Language Models)
