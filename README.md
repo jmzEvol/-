@@ -3,6 +3,6 @@
 
  
 
-蒋明忠：[[论文]](./hhh/Efficient%20Test-Time%20Adaptation%20of%20Vision-Language%20Models.pdf)
+蒋明忠：[[论文]](./hhh/持续学习-VLmodel-TPAMI2025Learning%20without%20Forgetting%20for.pdf)
 
 
